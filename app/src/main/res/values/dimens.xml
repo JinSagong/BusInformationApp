@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginDefault">8dp</dimen>
+    <dimen name="marginDouble">16dp</dimen>
+    <dimen name="paddingSearch">12dp</dimen>
+    <dimen name="marginDetailTop">120dp</dimen>
+
+    <dimen name="textSize1">13sp</dimen>
+    <dimen name="textSize2">20sp</dimen>
+    <dimen name="textSize3">8sp</dimen>
+
+    <dimen name="iconSize">24dp</dimen>
+    <dimen name="mainIconSize">48dp</dimen>
+    <dimen name="miniIconSize">18dp</dimen>
+
+    <dimen name="fabSize">48dp</dimen>
+    <dimen name="marginFab">16dp</dimen>
+    <dimen name="marginMiniFab">9dp</dimen>
+</resources>

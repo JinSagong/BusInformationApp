@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">버스탈래요</string>
+    <string name="CITY_NAME">지역</string>
+    <string name="CITY_CODE">37020</string>
+
+    <string name="AppId">******************************</string>
+    <string name="validBannerAd1">******************************</string>
+    <string name="validBannerAd2">******************************</string>
+    <string name="testBannerAd">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="BannerAd1">@string/testBannerAd</string>
+    <string name="BannerAd2">@string/testBannerAd</string>
+
+    <string name="type1">일반</string>
+    <string name="type2">좌석</string>
+
+    <string name="apiKey1">******************************</string>
+
+    <string name="hintSearch">정류소, 노선을 검색하세요.</string>
+    <string name="loadingGpsInfo">주변 정류장을 찾는 중입니다.\n다소 시간이 걸릴 수 있습니다.</string>
+    <string name="noGpsInfo">근처에 위치한 정류장을 찾지 못했습니다.</string>
+
+    <string name="loadingStationInfo">버스 도착 예정 정보를 불러오는 중입니다.</string>
+    <string name="noStationInfo">버스 도착 예정 정보가 없습니다.</string>
+
+    <string name="loadingRouteInfo">운행 정보를 불러오는 중입니다.</string>
+    <string name="noRouteInfo">현재 운행중인 버스가 없습니다.</string>
+
+    <string name="noResultBecauseOfError">실시간 정보를 불러오지 못했습니다.</string>
+    <string name="networkError">네트워크가 연결되어 있지 않아 실시간 정보를 불러올 수 없습니다.</string>
+    <string name="serverError">버스정보 제공처의 서버문제로 인해 실시간 정보를 불러올 수 없습니다.</string>
+
+    <string name="noPermission">위치 권한이 없어 현재 위치 정보를 불러오지 못했습니다.</string>
+    <string name="noLocationFunction">위치 서비스를 활성화하시면 이용하실 수 있습니다.</string>
+
+    <string name="tutorial1">자주 이용하는 버스와 정류장을 한 눈에 볼 수 있어요</string>
+    <string name="tutorial2">근처 정류장을 찾아보세요</string>
+    <string name="tutorial3">테마를 변경해보세요</string>
+
+    <string name="closeApp">어플리케이션을 종료하시겠습니까?\n</string>
+</resources>

@@ -1,0 +1,3059 @@
+[
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000289",
+        "routeno": "16",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "상구3리.가목동",
+        "endvehicletime": "1720",
+        "routeid": "KUB352000309",
+        "routeno": "234",
+        "routetp": "일반버스",
+        "startnodenm": "고란종점",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "상구3리.가목동",
+        "endvehicletime": "1720",
+        "routeid": "KUB352000310",
+        "routeno": "234",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1720",
+        "routeid": "KUB352000311",
+        "routeno": "234",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고란종점",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000312",
+        "routeno": "333",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0845"
+    },
+    {
+        "endnodenm": "고란종점",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000313",
+        "routeno": "333",
+        "routetp": "일반버스",
+        "startnodenm": "상구3리.가목동",
+        "startvehicletime": "0845"
+    },
+    {
+        "endnodenm": "고란종점",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000314",
+        "routeno": "333",
+        "routetp": "일반버스",
+        "startnodenm": "상구3리.가목동",
+        "startvehicletime": "0845"
+    },
+    {
+        "endnodenm": "국민체육센터",
+        "endvehicletime": "1735",
+        "routeid": "KUB352000315",
+        "routeno": "300-2",
+        "routetp": "좌석버스",
+        "startnodenm": "운대1리",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "가정2리.디자인고등학교",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000317",
+        "routeno": "306",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000319",
+        "routeno": "301",
+        "routetp": "일반버스",
+        "startnodenm": "가정2리.디자인고등학교",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "아화회차지",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000320",
+        "routeno": "301",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000321",
+        "routeno": "304",
+        "routetp": "좌석버스",
+        "startnodenm": "아화정류장",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000322",
+        "routeno": "304",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000323",
+        "routeno": "304",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "양남종점",
+        "endvehicletime": "2000",
+        "routeid": "KUB352000324",
+        "routeno": "154",
+        "routetp": "좌석버스",
+        "startnodenm": "입실",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "양남종점",
+        "endvehicletime": "2000",
+        "routeid": "KUB352000325",
+        "routeno": "154",
+        "routetp": "좌석버스",
+        "startnodenm": "입실",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2010",
+        "routeid": "KUB352000291",
+        "routeno": "337",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0658"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1945",
+        "routeid": "KUB352000294",
+        "routeno": "338",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0652"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1850",
+        "routeid": "KUB352000298",
+        "routeno": "335",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1850",
+        "routeid": "KUB352000300",
+        "routeno": "335",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "1655"
+    },
+    {
+        "endnodenm": "국민체육센터",
+        "endvehicletime": "1925",
+        "routeid": "KUB352000301",
+        "routeno": "300",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "국민체육센터",
+        "endvehicletime": "1925",
+        "routeid": "KUB352000303",
+        "routeno": "300",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "현진에버빌",
+        "endvehicletime": "2100",
+        "routeid": "KUB352000304",
+        "routeno": "270",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "시외버스터미널 건너",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000305",
+        "routeno": "271",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "시외버스터미널 건너",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000306",
+        "routeno": "271",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "시외버스터미널 건너",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000307",
+        "routeno": "271",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "상구3리.가목동",
+        "endvehicletime": "1720",
+        "routeid": "KUB352000308",
+        "routeno": "234",
+        "routetp": "일반버스",
+        "startnodenm": "고란종점",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "입실",
+        "endvehicletime": "2000",
+        "routeid": "KUB352000326",
+        "routeno": "154",
+        "routetp": "좌석버스",
+        "startnodenm": "양남종점",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "입실",
+        "endvehicletime": "2000",
+        "routeid": "KUB352000327",
+        "routeno": "154",
+        "routetp": "좌석버스",
+        "startnodenm": "양남종점",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "양남종점",
+        "endvehicletime": "2000",
+        "routeid": "KUB352000328",
+        "routeno": "154",
+        "routetp": "좌석버스",
+        "startnodenm": "입실",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "양남종점",
+        "endvehicletime": "2000",
+        "routeid": "KUB352000329",
+        "routeno": "154",
+        "routetp": "좌석버스",
+        "startnodenm": "입실",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "양남종점",
+        "endvehicletime": "2000",
+        "routeid": "KUB352000330",
+        "routeno": "154",
+        "routetp": "좌석버스",
+        "startnodenm": "입실",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "양남종점",
+        "endvehicletime": "1805",
+        "routeid": "KUB352000331",
+        "routeno": "153",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "1805"
+    },
+    {
+        "endnodenm": "입실",
+        "endvehicletime": "1900",
+        "routeid": "KUB352000332",
+        "routeno": "508",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2005",
+        "routeid": "KUB352000333",
+        "routeno": "60",
+        "routetp": "일반버스",
+        "startnodenm": "광명",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "1935",
+        "routeid": "KUB352000334",
+        "routeno": "61",
+        "routetp": "일반버스",
+        "startnodenm": "광명",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "1935",
+        "routeid": "KUB352000335",
+        "routeno": "61",
+        "routetp": "일반버스",
+        "startnodenm": "현진에버빌",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "1935",
+        "routeid": "KUB352000336",
+        "routeno": "61",
+        "routetp": "일반버스",
+        "startnodenm": "광명",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "문화중고등학교",
+        "endvehicletime": "2010",
+        "routeid": "KUB352000337",
+        "routeno": "273",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2155",
+        "routeid": "KUB352000338",
+        "routeno": "11",
+        "routetp": "좌석버스",
+        "startnodenm": "용강동대성주유소",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1830",
+        "routeid": "KUB352000339",
+        "routeno": "15",
+        "routetp": "좌석버스",
+        "startnodenm": "보문마을",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1830",
+        "routeid": "KUB352000340",
+        "routeno": "602",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000341",
+        "routeno": "333",
+        "routetp": "일반버스",
+        "startnodenm": "고란종점",
+        "startvehicletime": "0845"
+    },
+    {
+        "endnodenm": "고란종점",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000342",
+        "routeno": "333",
+        "routetp": "일반버스",
+        "startnodenm": "상구3리.가목동",
+        "startvehicletime": "0845"
+    },
+    {
+        "endnodenm": "문화중고등학교입구",
+        "endvehicletime": "2255",
+        "routeid": "KUB352000343",
+        "routeno": "70",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "문화중고등학교입구",
+        "endvehicletime": "2255",
+        "routeid": "KUB352000344",
+        "routeno": "70",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "양남종점",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000345",
+        "routeno": "150-1",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "문화중고등학교입구",
+        "endvehicletime": "2300",
+        "routeid": "KUB352000346",
+        "routeno": "50",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "문화중고등학교입구",
+        "endvehicletime": "2300",
+        "routeid": "KUB352000348",
+        "routeno": "50",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "문화중고등학교입구",
+        "endvehicletime": "2305",
+        "routeid": "KUB352000350",
+        "routeno": "51",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0510"
+    },
+    {
+        "endnodenm": "문화중고등학교입구",
+        "endvehicletime": "2305",
+        "routeid": "KUB352000351",
+        "routeno": "51",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교",
+        "startvehicletime": "0510"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2016",
+        "routeid": "KUB352000354",
+        "routeno": "605",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1800",
+        "routeid": "KUB352000355",
+        "routeno": "607",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1900",
+        "routeid": "KUB352000356",
+        "routeno": "508",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "endvehicletime": "1620",
+        "routeid": "KUB352000357",
+        "routeno": "355",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "점태골",
+        "routeid": "KUB352000359",
+        "routeno": "2",
+        "routetp": "일반버스",
+        "startnodenm": "산내정류소"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000360",
+        "routeno": "260",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "현진에버빌",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000361",
+        "routeno": "300-1",
+        "routetp": "좌석버스",
+        "startnodenm": "현진에버빌",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1800",
+        "routeid": "KUB352000362",
+        "routeno": "205",
+        "routetp": "좌석버스",
+        "startnodenm": "노실",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1800",
+        "routeid": "KUB352000363",
+        "routeno": "205",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "상구3리.가목동",
+        "endvehicletime": "1720",
+        "routeid": "KUB352000364",
+        "routeno": "234",
+        "routetp": "일반버스",
+        "startnodenm": "고란종점",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000365",
+        "routeno": "333",
+        "routetp": "일반버스",
+        "startnodenm": "고란종점",
+        "startvehicletime": "0845"
+    },
+    {
+        "endnodenm": "고란종점",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000366",
+        "routeno": "333",
+        "routetp": "일반버스",
+        "startnodenm": "상구3리.가목동",
+        "startvehicletime": "0845"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000367",
+        "routeno": "300-1",
+        "routetp": "좌석버스",
+        "startnodenm": "현진에버빌",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "감포종점",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000368",
+        "routeno": "160",
+        "routetp": "좌석버스",
+        "startnodenm": "감포종점",
+        "startvehicletime": "0740"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2300",
+        "routeid": "KUB352000369",
+        "routeno": "50",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1720",
+        "routeid": "KUB352000370",
+        "routeno": "217",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1720",
+        "routeid": "KUB352000372",
+        "routeno": "217",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000373",
+        "routeno": "202",
+        "routetp": "좌석버스",
+        "startnodenm": "두류이주단지",
+        "startvehicletime": "0750"
+    },
+    {
+        "endnodenm": "근계2리",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000374",
+        "routeno": "212",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0652"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000375",
+        "routeno": "216",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1835",
+        "routeid": "KUB352000376",
+        "routeno": "252",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000378",
+        "routeno": "306",
+        "routetp": "일반버스",
+        "startnodenm": "가정2리.디자인고등학교",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000379",
+        "routeno": "306",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "현진에버빌",
+        "endvehicletime": "1735",
+        "routeid": "KUB352000380",
+        "routeno": "300-1",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1720",
+        "routeid": "KUB352000381",
+        "routeno": "217",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "제일아파트",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000382",
+        "routeno": "300-1",
+        "routetp": "좌석버스",
+        "startnodenm": "현진에버빌",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000383",
+        "routeno": "200",
+        "routetp": "좌석버스",
+        "startnodenm": "기계",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000384",
+        "routeno": "203",
+        "routetp": "좌석버스",
+        "startnodenm": "옥산1리",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1925",
+        "routeid": "KUB352000385",
+        "routeno": "201",
+        "routetp": "일반버스",
+        "startnodenm": "원당",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "원당",
+        "endvehicletime": "1925",
+        "routeid": "KUB352000386",
+        "routeno": "201",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2045",
+        "routeid": "KUB352000387",
+        "routeno": "700",
+        "routetp": "좌석버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0725"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2010",
+        "routeid": "KUB352000390",
+        "routeno": "276",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1910",
+        "routeid": "KUB352000391",
+        "routeno": "350",
+        "routetp": "좌석버스",
+        "startnodenm": "유스호텔입구",
+        "startvehicletime": "0555"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2035",
+        "routeid": "KUB352000392",
+        "routeno": "350",
+        "routetp": "좌석버스",
+        "startnodenm": "유스호텔입구",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2005",
+        "routeid": "KUB352000393",
+        "routeno": "60",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "1935",
+        "routeid": "KUB352000394",
+        "routeno": "61",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000395",
+        "routeno": "216",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000052",
+        "routeno": "210",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000053",
+        "routeno": "210",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000054",
+        "routeno": "212",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0652"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000055",
+        "routeno": "216",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000056",
+        "routeno": "216",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "감포종점",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000057",
+        "routeno": "100-1",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "감포종점",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000058",
+        "routeno": "100",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1720",
+        "routeid": "KUB352000059",
+        "routeno": "217",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1735",
+        "routeid": "KUB352000061",
+        "routeno": "604",
+        "routetp": "일반버스",
+        "startnodenm": "고속버스터미널.시외버스터미널",
+        "startvehicletime": "0530"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1735",
+        "routeid": "KUB352000062",
+        "routeno": "604",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0530"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1735",
+        "routeid": "KUB352000063",
+        "routeno": "604",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0530"
+    },
+    {
+        "endnodenm": "안강동부정류장",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000064",
+        "routeno": "222",
+        "routetp": "일반버스",
+        "startnodenm": "안강동부정류장",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000065",
+        "routeno": "230",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1930",
+        "routeid": "KUB352000066",
+        "routeno": "231",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1930",
+        "routeid": "KUB352000067",
+        "routeno": "231",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1850",
+        "routeid": "KUB352000068",
+        "routeno": "232",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1835",
+        "routeid": "KUB352000073",
+        "routeno": "252",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1835",
+        "routeid": "KUB352000074",
+        "routeno": "252",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1835",
+        "routeid": "KUB352000076",
+        "routeno": "252",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000080",
+        "routeno": "260",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "시외버스터미널 건너",
+        "endvehicletime": "2100",
+        "routeid": "KUB352000081",
+        "routeno": "270",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "시외버스터미널 건너",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000082",
+        "routeno": "271",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2135",
+        "routeid": "KUB352000083",
+        "routeno": "272",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2135",
+        "routeid": "KUB352000084",
+        "routeno": "272",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "시외버스터미널 건너",
+        "endvehicletime": "2010",
+        "routeid": "KUB352000085",
+        "routeno": "273",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000086",
+        "routeno": "275",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000087",
+        "routeno": "275",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1930",
+        "routeid": "KUB352000088",
+        "routeno": "277",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "가정2리.디자인고등학교",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000089",
+        "routeno": "306",
+        "routetp": "일반버스",
+        "startnodenm": "가정2리.디자인고등학교",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1735",
+        "routeid": "KUB352000090",
+        "routeno": "300-2",
+        "routetp": "좌석버스",
+        "startnodenm": "현진에버빌",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "가정2리.디자인고등학교",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000093",
+        "routeno": "301",
+        "routetp": "일반버스",
+        "startnodenm": "가정2리.디자인고등학교",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "가정2리.디자인고등학교",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000094",
+        "routeno": "301",
+        "routetp": "일반버스",
+        "startnodenm": "아화회차지",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "현진에버빌",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000095",
+        "routeno": "300-1",
+        "routetp": "좌석버스",
+        "startnodenm": "현진에버빌",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2100",
+        "routeid": "KUB352000096",
+        "routeno": "303",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000097",
+        "routeno": "304",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2016",
+        "routeid": "KUB352000099",
+        "routeno": "605",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000100",
+        "routeno": "100-1",
+        "routetp": "좌석버스",
+        "startnodenm": "감포종점",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1955",
+        "routeid": "KUB352000101",
+        "routeno": "330",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2025",
+        "routeid": "KUB352000102",
+        "routeno": "332",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000103",
+        "routeno": "334",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0710"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1945",
+        "routeid": "KUB352000109",
+        "routeno": "338",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0652"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2145",
+        "routeid": "KUB352000111",
+        "routeno": "350",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000112",
+        "routeno": "351",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소",
+        "startvehicletime": "0555"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "endvehicletime": "2035",
+        "routeid": "KUB352000113",
+        "routeno": "352",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "endvehicletime": "1620",
+        "routeid": "KUB352000114",
+        "routeno": "355",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "routeid": "KUB352000115",
+        "routeno": "356",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "routeid": "KUB352000116",
+        "routeno": "357",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2130",
+        "routeid": "KUB352000117",
+        "routeno": "500",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1930",
+        "routeid": "KUB352000118",
+        "routeno": "502",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000121",
+        "routeno": "505",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000122",
+        "routeno": "505",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000123",
+        "routeno": "506",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000124",
+        "routeno": "507",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000125",
+        "routeno": "507",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000126",
+        "routeno": "507",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1900",
+        "routeid": "KUB352000127",
+        "routeno": "508",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2220",
+        "routeid": "KUB352000128",
+        "routeno": "600",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000129",
+        "routeno": "601",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1830",
+        "routeid": "KUB352000130",
+        "routeno": "602",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000131",
+        "routeno": "603",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000132",
+        "routeno": "603",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000133",
+        "routeno": "603",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1735",
+        "routeid": "KUB352000134",
+        "routeno": "604",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0530"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000135",
+        "routeno": "605",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1800",
+        "routeid": "KUB352000137",
+        "routeno": "607",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "석계2리회관",
+        "endvehicletime": "2016",
+        "routeid": "KUB352000138",
+        "routeno": "605",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1800",
+        "routeid": "KUB352000139",
+        "routeno": "607",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2016",
+        "routeid": "KUB352000140",
+        "routeno": "605",
+        "routetp": "일반버스",
+        "startnodenm": "석계2리회관",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1800",
+        "routeid": "KUB352000141",
+        "routeno": "607",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1800",
+        "routeid": "KUB352000142",
+        "routeno": "607",
+        "routetp": "일반버스",
+        "startnodenm": "괘릉입구",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000143",
+        "routeno": "605",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2016",
+        "routeid": "KUB352000144",
+        "routeno": "605",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2120",
+        "routeid": "KUB352000145",
+        "routeno": "609",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000146",
+        "routeno": "700",
+        "routetp": "좌석버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0740"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000147",
+        "routeno": "10",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2155",
+        "routeid": "KUB352000148",
+        "routeno": "11",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1830",
+        "routeid": "KUB352000149",
+        "routeno": "15",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "옥산1리",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000150",
+        "routeno": "203",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000151",
+        "routeno": "210",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1720",
+        "routeid": "KUB352000152",
+        "routeno": "217",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1835",
+        "routeid": "KUB352000154",
+        "routeno": "252",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1835",
+        "routeid": "KUB352000155",
+        "routeno": "252",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "국민체육센터",
+        "endvehicletime": "1925",
+        "routeid": "KUB352000157",
+        "routeno": "300",
+        "routetp": "좌석버스",
+        "startnodenm": "현진에버빌",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "국민체육센터",
+        "endvehicletime": "1735",
+        "routeid": "KUB352000158",
+        "routeno": "300-2",
+        "routetp": "좌석버스",
+        "startnodenm": "현진에버빌",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1925",
+        "routeid": "KUB352000160",
+        "routeno": "300",
+        "routetp": "좌석버스",
+        "startnodenm": "현진에버빌",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000162",
+        "routeno": "605",
+        "routetp": "일반버스",
+        "startnodenm": "경주여고사거리",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000163",
+        "routeno": "10",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2155",
+        "routeid": "KUB352000164",
+        "routeno": "11",
+        "routetp": "좌석버스",
+        "startnodenm": "용강동대성주유소",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "불국사",
+        "endvehicletime": "0745",
+        "routeid": "KUB352000165",
+        "routeno": "12",
+        "routetp": "좌석버스",
+        "startnodenm": "용강동대성주유소",
+        "startvehicletime": "0745"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2300",
+        "routeid": "KUB352000166",
+        "routeno": "50",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2300",
+        "routeid": "KUB352000167",
+        "routeno": "50",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교입구",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2305",
+        "routeid": "KUB352000168",
+        "routeno": "51",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0510"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2305",
+        "routeid": "KUB352000169",
+        "routeno": "51",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교입구",
+        "startvehicletime": "0510"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2005",
+        "routeid": "KUB352000170",
+        "routeno": "60",
+        "routetp": "일반버스",
+        "startnodenm": "고란종점",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2255",
+        "routeid": "KUB352000172",
+        "routeno": "70",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000174",
+        "routeno": "100",
+        "routetp": "좌석버스",
+        "startnodenm": "감포종점",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2130",
+        "routeid": "KUB352000175",
+        "routeno": "500",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000176",
+        "routeno": "700",
+        "routetp": "좌석버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0740"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "routeid": "KUB352000178",
+        "routeno": "2",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "routeid": "KUB352000179",
+        "routeno": "2-1",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2020",
+        "routeid": "KUB352000180",
+        "routeno": "18",
+        "routetp": "좌석버스",
+        "startnodenm": "왕산마을",
+        "startvehicletime": "0800"
+    },
+    {
+        "endnodenm": "왕산마을",
+        "endvehicletime": "2020",
+        "routeid": "KUB352000181",
+        "routeno": "18",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0800"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2255",
+        "routeid": "KUB352000182",
+        "routeno": "70",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교입구",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2255",
+        "routeid": "KUB352000183",
+        "routeno": "70",
+        "routetp": "일반버스",
+        "startnodenm": "교육청",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2255",
+        "routeid": "KUB352000184",
+        "routeno": "70",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1835",
+        "routeid": "KUB352000185",
+        "routeno": "252",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1835",
+        "routeid": "KUB352000186",
+        "routeno": "252",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "기계",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000187",
+        "routeno": "200",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1835",
+        "routeid": "KUB352000188",
+        "routeno": "252",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1925",
+        "routeid": "KUB352000189",
+        "routeno": "201",
+        "routetp": "일반버스",
+        "startnodenm": "원당",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "두류이주단지",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000190",
+        "routeno": "202",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0750"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1800",
+        "routeid": "KUB352000191",
+        "routeno": "205",
+        "routetp": "좌석버스",
+        "startnodenm": "노실",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "옥산1리",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000192",
+        "routeno": "203",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "옥산1리",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000193",
+        "routeno": "203",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000194",
+        "routeno": "203",
+        "routetp": "좌석버스",
+        "startnodenm": "옥산1리",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2130",
+        "routeid": "KUB352000195",
+        "routeno": "206",
+        "routetp": "일반버스",
+        "startnodenm": "전마을",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000196",
+        "routeno": "212",
+        "routetp": "일반버스",
+        "startnodenm": "근계2리",
+        "startvehicletime": "0652"
+    },
+    {
+        "endnodenm": "근계2리",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000197",
+        "routeno": "212",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0652"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2300",
+        "routeid": "KUB352000198",
+        "routeno": "50",
+        "routetp": "일반버스",
+        "startnodenm": "용강주공아파트",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2300",
+        "routeid": "KUB352000199",
+        "routeno": "50",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2305",
+        "routeid": "KUB352000200",
+        "routeno": "51",
+        "routetp": "일반버스",
+        "startnodenm": "용강주공아파트",
+        "startvehicletime": "0510"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2305",
+        "routeid": "KUB352000201",
+        "routeno": "51",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교",
+        "startvehicletime": "0510"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1850",
+        "routeid": "KUB352000202",
+        "routeno": "232",
+        "routetp": "일반버스",
+        "startnodenm": "나원2리",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000203",
+        "routeno": "260",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2125",
+        "routeid": "KUB352000204",
+        "routeno": "260",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1955",
+        "routeid": "KUB352000205",
+        "routeno": "330",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1955",
+        "routeid": "KUB352000206",
+        "routeno": "330",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1955",
+        "routeid": "KUB352000207",
+        "routeno": "330",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "1955",
+        "routeid": "KUB352000208",
+        "routeno": "330",
+        "routetp": "좌석버스",
+        "startnodenm": "화곡2리",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2135",
+        "routeid": "KUB352000209",
+        "routeno": "272",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2135",
+        "routeid": "KUB352000210",
+        "routeno": "272",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2135",
+        "routeid": "KUB352000211",
+        "routeno": "272",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2135",
+        "routeid": "KUB352000212",
+        "routeno": "272",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2135",
+        "routeid": "KUB352000213",
+        "routeno": "272",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2135",
+        "routeid": "KUB352000214",
+        "routeno": "272",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2135",
+        "routeid": "KUB352000215",
+        "routeno": "272",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "안강동부정류장",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000216",
+        "routeno": "222",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "안강동부정류장",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000217",
+        "routeno": "222",
+        "routetp": "일반버스",
+        "startnodenm": "안강동부정류장",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000218",
+        "routeno": "222",
+        "routetp": "일반버스",
+        "startnodenm": "안강동부정류장",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "안강동부정류장",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000219",
+        "routeno": "222",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000220",
+        "routeno": "222",
+        "routetp": "일반버스",
+        "startnodenm": "안강동부정류장",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "안강동부정류장",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000221",
+        "routeno": "222",
+        "routetp": "일반버스",
+        "startnodenm": "안강터미널",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "안강동부정류장",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000222",
+        "routeno": "222",
+        "routetp": "일반버스",
+        "startnodenm": "안강동부정류장",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "화성한동타운",
+        "endvehicletime": "1920",
+        "routeid": "KUB352000223",
+        "routeno": "222",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1930",
+        "routeid": "KUB352000224",
+        "routeno": "231",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1930",
+        "routeid": "KUB352000225",
+        "routeno": "231",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1930",
+        "routeid": "KUB352000226",
+        "routeno": "231",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000227",
+        "routeno": "210",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000228",
+        "routeno": "210",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000229",
+        "routeno": "210",
+        "routetp": "일반버스",
+        "startnodenm": "화성한동타운",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "화성한동타운",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000230",
+        "routeno": "210",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000231",
+        "routeno": "210",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2016",
+        "routeid": "KUB352000232",
+        "routeno": "605",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2016",
+        "routeid": "KUB352000233",
+        "routeno": "605",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2220",
+        "routeid": "KUB352000234",
+        "routeno": "600",
+        "routetp": "좌석버스",
+        "startnodenm": "효청보건고등학교",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "효청보건고등학교",
+        "endvehicletime": "2220",
+        "routeid": "KUB352000235",
+        "routeno": "600",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "endvehicletime": "1825",
+        "routeid": "KUB352000236",
+        "routeno": "351",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소",
+        "startvehicletime": "0555"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "endvehicletime": "1620",
+        "routeid": "KUB352000237",
+        "routeno": "355",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2130",
+        "routeid": "KUB352000238",
+        "routeno": "500",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000239",
+        "routeno": "505",
+        "routetp": "일반버스",
+        "startnodenm": "박달4리.고사리",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000240",
+        "routeno": "505",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "박달4리.고사리",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000241",
+        "routeno": "505",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000242",
+        "routeno": "506",
+        "routetp": "좌석버스",
+        "startnodenm": "명계3리",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000243",
+        "routeno": "506",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000244",
+        "routeno": "506",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "명계2리",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000245",
+        "routeno": "506",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000246",
+        "routeno": "507",
+        "routetp": "일반버스",
+        "startnodenm": "구일마을",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000247",
+        "routeno": "507",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "구일마을",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000248",
+        "routeno": "507",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000249",
+        "routeno": "334",
+        "routetp": "일반버스",
+        "startnodenm": "방내",
+        "startvehicletime": "0710"
+    },
+    {
+        "endnodenm": "방내",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000250",
+        "routeno": "334",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0710"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000251",
+        "routeno": "601",
+        "routetp": "좌석버스",
+        "startnodenm": "국민건강보험.정보고등학교",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1940",
+        "routeid": "KUB352000252",
+        "routeno": "601",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2028",
+        "routeid": "KUB352000253",
+        "routeno": "30",
+        "routetp": "일반버스",
+        "startnodenm": "야척",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2010",
+        "routeid": "KUB352000254",
+        "routeno": "31",
+        "routetp": "일반버스",
+        "startnodenm": "경주역",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "산내정류소",
+        "endvehicletime": "2145",
+        "routeid": "KUB352000255",
+        "routeno": "350",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2145",
+        "routeid": "KUB352000256",
+        "routeno": "350",
+        "routetp": "좌석버스",
+        "startnodenm": "산내정류소",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2100",
+        "routeid": "KUB352000257",
+        "routeno": "303",
+        "routetp": "좌석버스",
+        "startnodenm": "도리2리회관",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "아화회차지",
+        "endvehicletime": "2100",
+        "routeid": "KUB352000258",
+        "routeno": "303",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2100",
+        "routeid": "KUB352000259",
+        "routeno": "303",
+        "routetp": "좌석버스",
+        "startnodenm": "아화회차지",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "도리2리회관",
+        "endvehicletime": "2100",
+        "routeid": "KUB352000260",
+        "routeno": "303",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2025",
+        "routeid": "KUB352000261",
+        "routeno": "332",
+        "routetp": "좌석버스",
+        "startnodenm": "반탕골",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "반탕골",
+        "endvehicletime": "2025",
+        "routeid": "KUB352000262",
+        "routeno": "332",
+        "routetp": "좌석버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000263",
+        "routeno": "207",
+        "routetp": "좌석버스",
+        "startnodenm": "강교2리회관",
+        "startvehicletime": "0805"
+    },
+    {
+        "endnodenm": "강교2리회관",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000264",
+        "routeno": "207",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0805"
+    },
+    {
+        "endnodenm": "어일정류소",
+        "endvehicletime": "1915",
+        "routeid": "KUB352000265",
+        "routeno": "130",
+        "routetp": "좌석버스",
+        "startnodenm": "어일정류소",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "어일정류소",
+        "endvehicletime": "1915",
+        "routeid": "KUB352000266",
+        "routeno": "130",
+        "routetp": "좌석버스",
+        "startnodenm": "어일정류소",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "서라벌사거리",
+        "endvehicletime": "1915",
+        "routeid": "KUB352000267",
+        "routeno": "130",
+        "routetp": "좌석버스",
+        "startnodenm": "어일정류소",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "어일정류소",
+        "endvehicletime": "1915",
+        "routeid": "KUB352000268",
+        "routeno": "130",
+        "routetp": "좌석버스",
+        "startnodenm": "어일정류소",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "어일정류소",
+        "endvehicletime": "1915",
+        "routeid": "KUB352000269",
+        "routeno": "130",
+        "routetp": "좌석버스",
+        "startnodenm": "어일정류소",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000270",
+        "routeno": "150",
+        "routetp": "좌석버스",
+        "startnodenm": "양남종점",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000271",
+        "routeno": "150",
+        "routetp": "좌석버스",
+        "startnodenm": "양남종점",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "양남종점",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000272",
+        "routeno": "150",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000273",
+        "routeno": "150-1",
+        "routetp": "좌석버스",
+        "startnodenm": "양남종점",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000274",
+        "routeno": "602",
+        "routetp": "좌석버스",
+        "startnodenm": "제네1리회관",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1830",
+        "routeid": "KUB352000275",
+        "routeno": "602",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000276",
+        "routeno": "603",
+        "routetp": "좌석버스",
+        "startnodenm": "황성주공2차.계림고",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000277",
+        "routeno": "603",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "제네2리회관",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000278",
+        "routeno": "603",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "원녹동",
+        "endvehicletime": "2120",
+        "routeid": "KUB352000279",
+        "routeno": "609",
+        "routetp": "좌석버스",
+        "startnodenm": "원녹동",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "원녹동",
+        "endvehicletime": "2120",
+        "routeid": "KUB352000280",
+        "routeno": "609",
+        "routetp": "좌석버스",
+        "startnodenm": "원녹동",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2120",
+        "routeid": "KUB352000281",
+        "routeno": "609",
+        "routetp": "좌석버스",
+        "startnodenm": "원녹동",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2120",
+        "routeid": "KUB352000282",
+        "routeno": "609",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2120",
+        "routeid": "KUB352000283",
+        "routeno": "609",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "원녹동",
+        "endvehicletime": "2120",
+        "routeid": "KUB352000284",
+        "routeno": "609",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2030",
+        "routeid": "KUB352000285",
+        "routeno": "275",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1930",
+        "routeid": "KUB352000286",
+        "routeno": "277",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000287",
+        "routeno": "16",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000288",
+        "routeno": "16",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000001",
+        "routeno": "10",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "시외버스터미널.고속버스터미널",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000002",
+        "routeno": "10",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2155",
+        "routeid": "KUB352000003",
+        "routeno": "11",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "불국사",
+        "endvehicletime": "1820",
+        "routeid": "KUB352000004",
+        "routeno": "12",
+        "routetp": "좌석버스",
+        "startnodenm": "불국사",
+        "startvehicletime": "0840"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000006",
+        "routeno": "16",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000007",
+        "routeno": "16",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000008",
+        "routeno": "16",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2020",
+        "routeid": "KUB352000010",
+        "routeno": "18",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0800"
+    },
+    {
+        "endnodenm": "새동네",
+        "endvehicletime": "1740",
+        "routeid": "KUB352000011",
+        "routeno": "18-1",
+        "routetp": "좌석버스",
+        "startnodenm": "새동네",
+        "startvehicletime": "0840"
+    },
+    {
+        "endnodenm": "경주역",
+        "endvehicletime": "2028",
+        "routeid": "KUB352000012",
+        "routeno": "30",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "경주역",
+        "endvehicletime": "2028",
+        "routeid": "KUB352000013",
+        "routeno": "30",
+        "routetp": "일반버스",
+        "startnodenm": "경주역.성동시장",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "경주역.우체국",
+        "endvehicletime": "2010",
+        "routeid": "KUB352000014",
+        "routeno": "31",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2010",
+        "routeid": "KUB352000015",
+        "routeno": "31",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "중마을입구",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000016",
+        "routeno": "40",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "중마을입구",
+        "endvehicletime": "2155",
+        "routeid": "KUB352000018",
+        "routeno": "41",
+        "routetp": "일반버스",
+        "startnodenm": "문화중고등학교",
+        "startvehicletime": "0643"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2300",
+        "routeid": "KUB352000020",
+        "routeno": "50",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2305",
+        "routeid": "KUB352000021",
+        "routeno": "51",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0510"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2005",
+        "routeid": "KUB352000022",
+        "routeno": "60",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "1935",
+        "routeid": "KUB352000023",
+        "routeno": "61",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "신경주역",
+        "endvehicletime": "2255",
+        "routeid": "KUB352000024",
+        "routeno": "70",
+        "routetp": "일반버스",
+        "startnodenm": "신경주역",
+        "startvehicletime": "0500"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000025",
+        "routeno": "100",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000026",
+        "routeno": "100-1",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "어일정류소",
+        "endvehicletime": "1915",
+        "routeid": "KUB352000027",
+        "routeno": "130",
+        "routetp": "좌석버스",
+        "startnodenm": "어일정류소",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "어일정류소",
+        "endvehicletime": "1915",
+        "routeid": "KUB352000029",
+        "routeno": "130",
+        "routetp": "좌석버스",
+        "startnodenm": "어일정류소",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "어일정류소",
+        "endvehicletime": "1915",
+        "routeid": "KUB352000030",
+        "routeno": "130",
+        "routetp": "좌석버스",
+        "startnodenm": "어일정류소",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000031",
+        "routeno": "150",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000032",
+        "routeno": "150-1",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널.고속버스터미널",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2140",
+        "routeid": "KUB352000033",
+        "routeno": "150-1",
+        "routetp": "좌석버스",
+        "startnodenm": "양남종점",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "양남",
+        "routeid": "KUB352000035",
+        "routeno": "152",
+        "routetp": "좌석버스",
+        "startnodenm": "양남"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1610",
+        "routeid": "KUB352000036",
+        "routeno": "153",
+        "routetp": "좌석버스",
+        "startnodenm": "양남종점",
+        "startvehicletime": "1610"
+    },
+    {
+        "endnodenm": "양남종점",
+        "endvehicletime": "2000",
+        "routeid": "KUB352000037",
+        "routeno": "154",
+        "routetp": "좌석버스",
+        "startnodenm": "양남종점",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "기계",
+        "endvehicletime": "1950",
+        "routeid": "KUB352000038",
+        "routeno": "200",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "원당",
+        "endvehicletime": "1925",
+        "routeid": "KUB352000039",
+        "routeno": "201",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "두류이주단지",
+        "endvehicletime": "2040",
+        "routeid": "KUB352000040",
+        "routeno": "202",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0750"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2015",
+        "routeid": "KUB352000041",
+        "routeno": "203",
+        "routetp": "일반버스",
+        "startnodenm": "옥산1리",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "노실",
+        "endvehicletime": "1800",
+        "routeid": "KUB352000042",
+        "routeno": "205",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2130",
+        "routeid": "KUB352000043",
+        "routeno": "206",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "전마을",
+        "endvehicletime": "2130",
+        "routeid": "KUB352000044",
+        "routeno": "206",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2130",
+        "routeid": "KUB352000045",
+        "routeno": "206",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "풍산아파트",
+        "endvehicletime": "2130",
+        "routeid": "KUB352000046",
+        "routeno": "206",
+        "routetp": "일반버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "안강터미널",
+        "endvehicletime": "2200",
+        "routeid": "KUB352000048",
+        "routeno": "207",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0805"
+    },
+    {
+        "endnodenm": "강교1리",
+        "endvehicletime": "1745",
+        "routeid": "KUB352000049",
+        "routeno": "208",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0530"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "1745",
+        "routeid": "KUB352000050",
+        "routeno": "208",
+        "routetp": "좌석버스",
+        "startnodenm": "강교1리",
+        "startvehicletime": "0530"
+    },
+    {
+        "endnodenm": "고속버스터미널",
+        "endvehicletime": "2105",
+        "routeid": "KUB352000051",
+        "routeno": "210",
+        "routetp": "좌석버스",
+        "startnodenm": "시외버스터미널",
+        "startvehicletime": "0600"
+    }
+]

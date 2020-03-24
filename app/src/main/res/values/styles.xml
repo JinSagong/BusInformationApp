@@ -1,0 +1,89 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/WHITE</item>
+        <item name="colorPrimaryDark">@color/WHITE</item>
+        <item name="colorAccent">@color/textColor1</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+
+        <item name="themeColor">@color/RED</item>
+    </style>
+
+    <style name="AppTheme.Transparent" parent="AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+
+    <!-- Color themes -->
+
+    <style name="AppTheme.RED" parent="AppTheme">
+        <item name="themeColor">@color/RED</item>
+    </style>
+
+    <style name="AppTheme.Transparent.RED" parent="AppTheme.Transparent">
+        <item name="themeColor">@color/RED</item>
+    </style>
+
+    <style name="AppTheme.ORANGE" parent="AppTheme">
+        <item name="themeColor">@color/ORANGE</item>
+    </style>
+
+    <style name="AppTheme.Transparent.ORANGE" parent="AppTheme.Transparent">
+        <item name="themeColor">@color/ORANGE</item>
+    </style>
+
+    <style name="AppTheme.YELLOW" parent="AppTheme">
+        <item name="themeColor">@color/YELLOW</item>
+    </style>
+
+    <style name="AppTheme.Transparent.YELLOW" parent="AppTheme.Transparent">
+        <item name="themeColor">@color/YELLOW</item>
+    </style>
+
+    <style name="AppTheme.GREEN" parent="AppTheme">
+        <item name="themeColor">@color/GREEN</item>
+    </style>
+
+    <style name="AppTheme.Transparent.GREEN" parent="AppTheme.Transparent">
+        <item name="themeColor">@color/GREEN</item>
+    </style>
+
+    <style name="AppTheme.BLUE" parent="AppTheme">
+        <item name="themeColor">@color/BLUE</item>
+    </style>
+
+    <style name="AppTheme.Transparent.BLUE" parent="AppTheme.Transparent">
+        <item name="themeColor">@color/BLUE</item>
+    </style>
+
+    <style name="AppTheme.PURPLE" parent="AppTheme">
+        <item name="themeColor">@color/PURPLE</item>
+    </style>
+
+    <style name="AppTheme.Transparent.PURPLE" parent="AppTheme.Transparent">
+        <item name="themeColor">@color/PURPLE</item>
+    </style>
+
+    <style name="AppTheme.PINK" parent="AppTheme">
+        <item name="themeColor">@color/PINK</item>
+    </style>
+
+    <style name="AppTheme.Transparent.PINK" parent="AppTheme.Transparent">
+        <item name="themeColor">@color/PINK</item>
+    </style>
+
+    <style name="AppTheme.GRAY" parent="AppTheme">
+        <item name="themeColor">@color/GRAY</item>
+    </style>
+
+    <style name="AppTheme.Transparent.GRAY" parent="AppTheme.Transparent">
+        <item name="themeColor">@color/GRAY</item>
+    </style>
+
+</resources>

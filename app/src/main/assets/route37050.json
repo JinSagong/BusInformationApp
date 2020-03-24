@@ -1,0 +1,3254 @@
+[
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "0725",
+        "routeid": "GMB185-220",
+        "routeno": "185-2",
+        "routetp": "좌석버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "2320",
+        "routeid": "GMB18510",
+        "routeno": "185",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "2305",
+        "routeid": "GMB18511",
+        "routeno": "185",
+        "routetp": "일반버스",
+        "startnodenm": "귀빈맨션(구미여고)",
+        "startvehicletime": "2305"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2355",
+        "routeid": "GMB18520",
+        "routeno": "185",
+        "routetp": "좌석버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0756"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "2055",
+        "routeid": "GMB18610",
+        "routeno": "186",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2150",
+        "routeid": "GMB18620",
+        "routeno": "186",
+        "routetp": "좌석버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0825"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0611",
+        "routeid": "GMB187-130",
+        "routeno": "187-1",
+        "routetp": "좌석버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0611"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2210",
+        "routeid": "GMB18730",
+        "routeno": "187",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2040",
+        "routeid": "GMB18830",
+        "routeno": "188",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0710"
+    },
+    {
+        "endnodenm": "옥계이편한세상APT앞",
+        "endvehicletime": "1904",
+        "routeid": "GMB190-110",
+        "routeno": "190-1",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "1904"
+    },
+    {
+        "endnodenm": "옥계이편한세상APT앞",
+        "endvehicletime": "0731",
+        "routeid": "GMB190-210",
+        "routeno": "190-2",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0731"
+    },
+    {
+        "endnodenm": "금오공대종점",
+        "endvehicletime": "1845",
+        "routeid": "GMB190-310",
+        "routeno": "190-3",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2145",
+        "routeid": "GMB190-320",
+        "routeno": "190-3",
+        "routetp": "일반버스",
+        "startnodenm": "금오공대종점",
+        "startvehicletime": "1002"
+    },
+    {
+        "endnodenm": "옥계이편한세상APT앞",
+        "endvehicletime": "2120",
+        "routeid": "GMB19010",
+        "routeno": "190",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0847"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2202",
+        "routeid": "GMB19020",
+        "routeno": "190",
+        "routetp": "일반버스",
+        "startnodenm": "옥계이편한세상APT앞",
+        "startvehicletime": "0835"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "1007",
+        "routeid": "GMB191-220",
+        "routeno": "191-2",
+        "routetp": "일반버스",
+        "startnodenm": "옥계이편한세상APT앞",
+        "startvehicletime": "1007"
+    },
+    {
+        "endnodenm": "옥계이편한세상APT앞",
+        "endvehicletime": "2053",
+        "routeid": "GMB19110",
+        "routeno": "191",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0810"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2146",
+        "routeid": "GMB19120",
+        "routeno": "191",
+        "routetp": "일반버스",
+        "startnodenm": "옥계이편한세상APT앞",
+        "startvehicletime": "0903"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "2150",
+        "routeid": "GMB19210",
+        "routeno": "192",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0835"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2248",
+        "routeid": "GMB19220",
+        "routeno": "192",
+        "routetp": "좌석버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "0625"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "1853",
+        "routeid": "GMB193-210",
+        "routeno": "193-2",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "1853"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2000",
+        "routeid": "GMB193-220",
+        "routeno": "193-2",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "2000"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "2015",
+        "routeid": "GMB19310",
+        "routeno": "193",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0633"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2115",
+        "routeid": "GMB19320",
+        "routeno": "193",
+        "routetp": "좌석버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "양호동종점",
+        "endvehicletime": "1430",
+        "routeid": "GMB19410",
+        "routeno": "194",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "1050"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1505",
+        "routeid": "GMB19420",
+        "routeno": "194",
+        "routetp": "일반버스",
+        "startnodenm": "양호동종점",
+        "startvehicletime": "1125"
+    },
+    {
+        "endnodenm": "아사히글라스앞",
+        "endvehicletime": "1925",
+        "routeid": "GMB19510",
+        "routeno": "195",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0603"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2040",
+        "routeid": "GMB19520",
+        "routeno": "195",
+        "routetp": "일반버스",
+        "startnodenm": "아사히글라스건너",
+        "startvehicletime": "0723"
+    },
+    {
+        "endnodenm": "경운대학교",
+        "endvehicletime": "2100",
+        "routeid": "GMB19610",
+        "routeno": "196",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2155",
+        "routeid": "GMB19620",
+        "routeno": "196",
+        "routetp": "좌석버스",
+        "startnodenm": "경운대학교",
+        "startvehicletime": "0735"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "2215",
+        "routeid": "GMB20-130",
+        "routeno": "20-1",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "2120",
+        "routeid": "GMB20-230",
+        "routeno": "20-2",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "1259"
+    },
+    {
+        "endnodenm": "축산물 유통센터",
+        "endvehicletime": "2210",
+        "routeid": "GMB20-231",
+        "routeno": "20-2",
+        "routetp": "일반버스",
+        "startnodenm": "선주고등학교건너",
+        "startvehicletime": "2210"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "0715",
+        "routeid": "GMB20-330",
+        "routeno": "20-3",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0715"
+    },
+    {
+        "endnodenm": "차고지행",
+        "endvehicletime": "0000",
+        "routeid": "GMB200010",
+        "routeno": "2000",
+        "routetp": "좌석버스",
+        "startnodenm": "시험운행중입니다",
+        "startvehicletime": "0000"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "2240",
+        "routeid": "GMB2030",
+        "routeno": "20",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "2146",
+        "routeid": "GMB2130",
+        "routeno": "21",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "1627",
+        "routeid": "GMB2232",
+        "routeno": "22",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0643"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "1920",
+        "routeid": "GMB2330",
+        "routeno": "23",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0905"
+    },
+    {
+        "endnodenm": "구운초등학교건너(괴평방면)",
+        "endvehicletime": "1420",
+        "routeid": "GMB24-112",
+        "routeno": "24-1",
+        "routetp": "일반버스",
+        "startnodenm": "문성2지구",
+        "startvehicletime": "0628"
+    },
+    {
+        "endnodenm": "문성2지구",
+        "endvehicletime": "1943",
+        "routeid": "GMB2410",
+        "routeno": "24",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(중앙시장)",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "문성2지구",
+        "endvehicletime": "1540",
+        "routeid": "GMB2413",
+        "routeno": "24",
+        "routetp": "일반버스",
+        "startnodenm": "구운초등학교앞",
+        "startvehicletime": "0737"
+    },
+    {
+        "endnodenm": "문성2지구",
+        "endvehicletime": "2105",
+        "routeid": "GMB2430",
+        "routeno": "24",
+        "routetp": "일반버스",
+        "startnodenm": "문성2지구",
+        "startvehicletime": "0652"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2225",
+        "routeid": "GMB2520",
+        "routeno": "25",
+        "routetp": "일반버스",
+        "startnodenm": "문성2지구",
+        "startvehicletime": "1137"
+    },
+    {
+        "endnodenm": "괴평",
+        "endvehicletime": "0755",
+        "routeid": "GMB26-110",
+        "routeno": "26-1",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0755"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "0715",
+        "routeid": "GMB26-120",
+        "routeno": "26-1",
+        "routetp": "일반버스",
+        "startnodenm": "괴평",
+        "startvehicletime": "0715"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1805",
+        "routeid": "GMB26-230",
+        "routeno": "26-2",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "1538"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1421",
+        "routeid": "GMB26-231",
+        "routeno": "26-2",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "괴평",
+        "endvehicletime": "1953",
+        "routeid": "GMB26010",
+        "routeno": "260",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2013",
+        "routeid": "GMB26020",
+        "routeno": "260",
+        "routetp": "좌석버스",
+        "startnodenm": "괴평",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "괴평",
+        "endvehicletime": "2154",
+        "routeid": "GMB2610",
+        "routeno": "26",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "0648"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2221",
+        "routeid": "GMB2620",
+        "routeno": "26",
+        "routetp": "일반버스",
+        "startnodenm": "괴평무지개아파트건너",
+        "startvehicletime": "0837"
+    },
+    {
+        "endnodenm": "금오산",
+        "endvehicletime": "2000",
+        "routeid": "GMB2710",
+        "routeno": "27",
+        "routetp": "일반버스",
+        "startnodenm": "구미대학교안",
+        "startvehicletime": "0647"
+    },
+    {
+        "endnodenm": "구미대학교안",
+        "endvehicletime": "2030",
+        "routeid": "GMB2720",
+        "routeno": "27",
+        "routetp": "일반버스",
+        "startnodenm": "금오산출발",
+        "startvehicletime": "0715"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "0654",
+        "routeid": "GMB28-110",
+        "routeno": "28-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "0654"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1743",
+        "routeid": "GMB2830",
+        "routeno": "28",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "1229"
+    },
+    {
+        "endnodenm": "문성2지구",
+        "endvehicletime": "1950",
+        "routeid": "GMB2910",
+        "routeno": "29",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2010",
+        "routeid": "GMB2920",
+        "routeno": "29",
+        "routetp": "일반버스",
+        "startnodenm": "문성2지구",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "1630",
+        "routeid": "GMB303-130",
+        "routeno": "303-1",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0900"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "1510",
+        "routeid": "GMB303-131",
+        "routeno": "303-1",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0725"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "2059",
+        "routeid": "GMB303-132",
+        "routeno": "303-1",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "1835"
+    },
+    {
+        "endnodenm": "황상종점",
+        "routeid": "GMB303-133",
+        "routeno": "303-1",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "2003",
+        "routeid": "GMB30330",
+        "routeno": "303",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0715"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0824",
+        "routeid": "GMB340-130",
+        "routeno": "340-1",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0647"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1800",
+        "routeid": "GMB340-236",
+        "routeno": "340-2",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0740"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0626",
+        "routeid": "GMB340-330",
+        "routeno": "340-3",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0626"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "1610",
+        "routeid": "GMB340-435",
+        "routeno": "340-4",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "청솔아파트건너",
+        "endvehicletime": "1715",
+        "routeid": "GMB340-512",
+        "routeno": "340-5",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1920",
+        "routeid": "GMB340-630",
+        "routeno": "340-6",
+        "routetp": "일반버스",
+        "startnodenm": "청솔아파트앞",
+        "startvehicletime": "1830"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0750",
+        "routeid": "GMB340-713",
+        "routeno": "340-7",
+        "routetp": "일반버스",
+        "startnodenm": "청솔아파트앞",
+        "startvehicletime": "0750"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2205",
+        "routeid": "GMB340-738",
+        "routeno": "340-7",
+        "routetp": "일반버스",
+        "startnodenm": "도봉초등학교앞",
+        "startvehicletime": "2205"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "0636",
+        "routeid": "GMB340-932",
+        "routeno": "340-9",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0636"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2205",
+        "routeid": "GMB34011",
+        "routeno": "340",
+        "routetp": "일반버스",
+        "startnodenm": "귀빈맨션(구미여고)",
+        "startvehicletime": "2205"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2215",
+        "routeid": "GMB34030",
+        "routeno": "340",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0603"
+    },
+    {
+        "endnodenm": "우방3차앞",
+        "endvehicletime": "2305",
+        "routeid": "GMB34032",
+        "routeno": "340",
+        "routetp": "일반버스",
+        "startnodenm": "귀빈맨션(구미여고)",
+        "startvehicletime": "2305"
+    },
+    {
+        "endnodenm": "숭오리 종점",
+        "endvehicletime": "0836",
+        "routeid": "GMB360-110",
+        "routeno": "360-1",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0821"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "0715",
+        "routeid": "GMB360-120",
+        "routeno": "360-1",
+        "routetp": "일반버스",
+        "startnodenm": "숭오리종점출발",
+        "startvehicletime": "0715"
+    },
+    {
+        "endnodenm": "숭오리 종점",
+        "endvehicletime": "0755",
+        "routeid": "GMB360-212",
+        "routeno": "360-2",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0755"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "0650",
+        "routeid": "GMB360-222",
+        "routeno": "360-2",
+        "routetp": "일반버스",
+        "startnodenm": "숭오리종점출발",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "0705",
+        "routeid": "GMB360-325",
+        "routeno": "360-3",
+        "routetp": "일반버스",
+        "startnodenm": "숭오리종점출발",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "숭오리 종점",
+        "endvehicletime": "2215",
+        "routeid": "GMB36010",
+        "routeno": "360",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "숭오리 종점",
+        "endvehicletime": "2205",
+        "routeid": "GMB36014",
+        "routeno": "360",
+        "routetp": "일반버스",
+        "startnodenm": "귀빈맨션(구미여고)",
+        "startvehicletime": "2205"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2305",
+        "routeid": "GMB36020",
+        "routeno": "360",
+        "routetp": "일반버스",
+        "startnodenm": "숭오리종점출발",
+        "startvehicletime": "0725"
+    },
+    {
+        "endnodenm": "숭오리 종점",
+        "endvehicletime": "2140",
+        "routeid": "GMB36110",
+        "routeno": "361",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2220",
+        "routeid": "GMB36120",
+        "routeno": "361",
+        "routetp": "일반버스",
+        "startnodenm": "숭오리종점출발",
+        "startvehicletime": "0745"
+    },
+    {
+        "endnodenm": "옥계대백타운종점",
+        "endvehicletime": "0603",
+        "routeid": "GMB380-110",
+        "routeno": "380-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0603"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0705",
+        "routeid": "GMB380-120",
+        "routeno": "380-1",
+        "routetp": "일반버스",
+        "startnodenm": "옥계대백타운 출발지",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "0705",
+        "routeid": "GMB380-210",
+        "routeno": "380-2",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2143",
+        "routeid": "GMB380-220",
+        "routeno": "380-2",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "2143"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0655",
+        "routeid": "GMB380-320",
+        "routeno": "380-3",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "2220",
+        "routeid": "GMB380-321",
+        "routeno": "380-3",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "2220"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "0726",
+        "routeid": "GMB380-410",
+        "routeno": "380-4",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0726"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "2205",
+        "routeid": "GMB38010",
+        "routeno": "380",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2300",
+        "routeid": "GMB38020",
+        "routeno": "380",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "금오공대종점",
+        "endvehicletime": "2107",
+        "routeid": "GMB404-130",
+        "routeno": "404-1",
+        "routetp": "좌석버스",
+        "startnodenm": "금오공대종점",
+        "startvehicletime": "0722"
+    },
+    {
+        "endnodenm": "금오공대종점",
+        "endvehicletime": "2012",
+        "routeid": "GMB40431",
+        "routeno": "404",
+        "routetp": "일반버스",
+        "startnodenm": "금오공대종점",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "문성2지구",
+        "endvehicletime": "2109",
+        "routeid": "GMB410-131",
+        "routeno": "410-1",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "2109"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "1350",
+        "routeid": "GMB410-135",
+        "routeno": "410-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "1320"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1700",
+        "routeid": "GMB410-236",
+        "routeno": "410-2",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0815"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "0620",
+        "routeid": "GMB410-330",
+        "routeno": "410-3",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1530",
+        "routeid": "GMB410-430",
+        "routeno": "410-4",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "1530"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "1515",
+        "routeid": "GMB410-530",
+        "routeno": "410-5",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "1515"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0727",
+        "routeid": "GMB410-630",
+        "routeno": "410-6",
+        "routetp": "일반버스",
+        "startnodenm": "청솔아파트앞",
+        "startvehicletime": "0727"
+    },
+    {
+        "endnodenm": "청솔아파트건너",
+        "endvehicletime": "0610",
+        "routeid": "GMB410-711",
+        "routeno": "410-7",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2205",
+        "routeid": "GMB41012",
+        "routeno": "410",
+        "routetp": "일반버스",
+        "startnodenm": "귀빈맨션(구미여고)",
+        "startvehicletime": "2205"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2215",
+        "routeid": "GMB41030",
+        "routeno": "410",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0721"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2246",
+        "routeid": "GMB411-136",
+        "routeno": "411-1",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0725"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1820",
+        "routeid": "GMB411-234",
+        "routeno": "411-2",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0845"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2133",
+        "routeid": "GMB411-339",
+        "routeno": "411-3",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0755"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "1933",
+        "routeid": "GMB411-437",
+        "routeno": "411-4",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0632",
+        "routeid": "GMB411-532",
+        "routeno": "411-5",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0632"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "0605",
+        "routeid": "GMB411-635",
+        "routeno": "411-6",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "2135",
+        "routeid": "GMB411-731",
+        "routeno": "411-7",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "2135"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1315",
+        "routeid": "GMB411-830",
+        "routeno": "411-8",
+        "routetp": "일반버스",
+        "startnodenm": "청솔아파트앞",
+        "startvehicletime": "1315"
+    },
+    {
+        "endnodenm": "청솔아파트건너",
+        "endvehicletime": "1115",
+        "routeid": "GMB411-930",
+        "routeno": "411-9",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "1115"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2050",
+        "routeid": "GMB41130",
+        "routeno": "411",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0920"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0705",
+        "routeid": "GMB46030",
+        "routeno": "460",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1535",
+        "routeid": "GMB46130",
+        "routeno": "461",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "1300"
+    },
+    {
+        "endnodenm": "구미종합터미널앞",
+        "endvehicletime": "2050",
+        "routeid": "GMB500010",
+        "routeno": "5000",
+        "routetp": "좌석버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "2233",
+        "routeid": "GMB500020",
+        "routeno": "5000",
+        "routetp": "좌석버스",
+        "startnodenm": "구미종합터미널건너",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "금오공대종점",
+        "endvehicletime": "1950",
+        "routeid": "GMB51-110",
+        "routeno": "51-1",
+        "routetp": "일반버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "1310"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "1925",
+        "routeid": "GMB51-120",
+        "routeno": "51-1",
+        "routetp": "일반버스",
+        "startnodenm": "금오공대종점",
+        "startvehicletime": "1020"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "2000",
+        "routeid": "GMB510010",
+        "routeno": "5100",
+        "routetp": "좌석버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "2128",
+        "routeid": "GMB510020",
+        "routeno": "5100",
+        "routetp": "좌석버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0855"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "0625",
+        "routeid": "GMB5130",
+        "routeno": "51",
+        "routetp": "일반버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0625"
+    },
+    {
+        "endnodenm": "김천(구미)역구미행",
+        "endvehicletime": "1535",
+        "routeid": "GMB52-110",
+        "routeno": "52-1",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1115"
+    },
+    {
+        "endnodenm": "칠산(진등방면)",
+        "endvehicletime": "1805",
+        "routeid": "GMB52-111",
+        "routeno": "52-1",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1420"
+    },
+    {
+        "endnodenm": "김천(구미)역구미행",
+        "endvehicletime": "0905",
+        "routeid": "GMB52-112",
+        "routeno": "52-1",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0905"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1615",
+        "routeid": "GMB52-120",
+        "routeno": "52-1",
+        "routetp": "일반버스",
+        "startnodenm": "김천(구미)역구미행",
+        "startvehicletime": "0955"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1450",
+        "routeid": "GMB52-121",
+        "routeno": "52-1",
+        "routetp": "일반버스",
+        "startnodenm": "칠산(경북과학기술고등학교방면)",
+        "startvehicletime": "1450"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1835",
+        "routeid": "GMB52-122",
+        "routeno": "52-1",
+        "routetp": "좌석버스",
+        "startnodenm": "칠산(경북과학기술고등학교방면)",
+        "startvehicletime": "1835"
+    },
+    {
+        "endnodenm": "양포동행정복지센터건너",
+        "endvehicletime": "1715",
+        "routeid": "GMB520010",
+        "routeno": "5200",
+        "routetp": "좌석버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "1838",
+        "routeid": "GMB520020",
+        "routeno": "5200",
+        "routetp": "좌석버스",
+        "startnodenm": "양포동행정복지센터",
+        "startvehicletime": "0805"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1956",
+        "routeid": "GMB5210",
+        "routeno": "52",
+        "routetp": "일반버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "1956"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "0640",
+        "routeid": "GMB5220",
+        "routeno": "52",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "구미종합터미널앞",
+        "endvehicletime": "1625",
+        "routeid": "GMB53-111",
+        "routeno": "53-1",
+        "routetp": "일반버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0755"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "1745",
+        "routeid": "GMB53-121",
+        "routeno": "53-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미종합터미널건너",
+        "startvehicletime": "1000"
+    },
+    {
+        "endnodenm": "구미종합터미널앞",
+        "endvehicletime": "2205",
+        "routeid": "GMB5310",
+        "routeno": "53",
+        "routetp": "일반버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0810"
+    },
+    {
+        "endnodenm": "구미종합터미널앞",
+        "endvehicletime": "1705",
+        "routeid": "GMB5311",
+        "routeno": "53",
+        "routetp": "좌석버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0940"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "2210",
+        "routeid": "GMB5320",
+        "routeno": "53",
+        "routetp": "일반버스",
+        "startnodenm": "구미종합터미널건너",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "0720",
+        "routeid": "GMB5321",
+        "routeno": "53",
+        "routetp": "좌석버스",
+        "startnodenm": "구미종합터미널건너",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "0810",
+        "routeid": "GMB5322",
+        "routeno": "53",
+        "routetp": "좌석버스",
+        "startnodenm": "구미종합터미널건너",
+        "startvehicletime": "0810"
+    },
+    {
+        "endnodenm": "오태1동",
+        "endvehicletime": "1850",
+        "routeid": "GMB5510",
+        "routeno": "55",
+        "routetp": "일반버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "2008",
+        "routeid": "GMB5520",
+        "routeno": "55",
+        "routetp": "일반버스",
+        "startnodenm": "오태1동",
+        "startvehicletime": "0713"
+    },
+    {
+        "endnodenm": "구미종합터미널앞",
+        "endvehicletime": "2230",
+        "routeid": "GMB55310",
+        "routeno": "553",
+        "routetp": "좌석버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0900"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "2213",
+        "routeid": "GMB55320",
+        "routeno": "553",
+        "routetp": "좌석버스",
+        "startnodenm": "구미종합터미널건너",
+        "startvehicletime": "1017"
+    },
+    {
+        "endnodenm": "구미종합터미널앞",
+        "endvehicletime": "2325",
+        "routeid": "GMB55410",
+        "routeno": "554",
+        "routetp": "좌석버스",
+        "startnodenm": "김천(구미)역구미행",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "김천(구미)역구미행",
+        "endvehicletime": "2250",
+        "routeid": "GMB55420",
+        "routeno": "554",
+        "routetp": "좌석버스",
+        "startnodenm": "구미종합터미널건너",
+        "startvehicletime": "0540"
+    },
+    {
+        "endnodenm": "구미종합터미널앞",
+        "endvehicletime": "1730",
+        "routeid": "GMB555-110",
+        "routeno": "555-1",
+        "routetp": "좌석버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "1947",
+        "routeid": "GMB555-120",
+        "routeno": "555-1",
+        "routetp": "좌석버스",
+        "startnodenm": "구미종합터미널건너",
+        "startvehicletime": "0750"
+    },
+    {
+        "endnodenm": "금오공대종점",
+        "endvehicletime": "1300",
+        "routeid": "GMB55710",
+        "routeno": "557",
+        "routetp": "좌석버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "1428",
+        "routeid": "GMB55720",
+        "routeno": "557",
+        "routetp": "좌석버스",
+        "startnodenm": "금오공대종점",
+        "startvehicletime": "0818"
+    },
+    {
+        "endnodenm": "금오공대종점",
+        "endvehicletime": "1910",
+        "routeid": "GMB5710",
+        "routeno": "57",
+        "routetp": "일반버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "금오공대종점",
+        "endvehicletime": "0720",
+        "routeid": "GMB5711",
+        "routeno": "57",
+        "routetp": "일반버스",
+        "startnodenm": "김천시외버스터미널(종점)",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "2113",
+        "routeid": "GMB5720",
+        "routeno": "57",
+        "routetp": "일반버스",
+        "startnodenm": "금오공대종점",
+        "startvehicletime": "0740"
+    },
+    {
+        "endnodenm": "김천시외버스터미널 종점",
+        "endvehicletime": "1625",
+        "routeid": "GMB5721",
+        "routeno": "57",
+        "routetp": "일반버스",
+        "startnodenm": "금오공대입구(옥계중학교방면)",
+        "startvehicletime": "0905"
+    },
+    {
+        "endnodenm": "오태1동입구건너",
+        "endvehicletime": "1605",
+        "routeid": "GMB60-131",
+        "routeno": "60-1",
+        "routetp": "일반버스",
+        "startnodenm": "오태1동",
+        "startvehicletime": "1245"
+    },
+    {
+        "endnodenm": "오태1동",
+        "endvehicletime": "2035",
+        "routeid": "GMB6030",
+        "routeno": "60",
+        "routetp": "일반버스",
+        "startnodenm": "오태1동",
+        "startvehicletime": "0710"
+    },
+    {
+        "endnodenm": "CNG충전소(탑승불가)",
+        "endvehicletime": "0000",
+        "routeid": "GMB66610",
+        "routeno": "666",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역(중앙시장)",
+        "startvehicletime": "0000"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1505",
+        "routeid": "GMB70-130",
+        "routeno": "70-1",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1010"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0915",
+        "routeid": "GMB70-230",
+        "routeno": "70-2",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0712"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1600",
+        "routeid": "GMB70-231",
+        "routeno": "70-2",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1600"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1700",
+        "routeid": "GMB70-330",
+        "routeno": "70-3",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1700"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0700",
+        "routeid": "GMB70-331",
+        "routeno": "70-3",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1615",
+        "routeid": "GMB70-430",
+        "routeno": "70-4",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0755"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "2050",
+        "routeid": "GMB7030",
+        "routeno": "70",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0750"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0915",
+        "routeid": "GMB71-120",
+        "routeno": "71-1",
+        "routetp": "일반버스",
+        "startnodenm": "상송수다사입구(오가2리방면)",
+        "startvehicletime": "0915"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1710",
+        "routeid": "GMB71-130",
+        "routeno": "71-1",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1125"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "2040",
+        "routeid": "GMB71030",
+        "routeno": "710",
+        "routetp": "좌석버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0910"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1340",
+        "routeid": "GMB7130",
+        "routeno": "71",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1340"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1420",
+        "routeid": "GMB7131",
+        "routeno": "71",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0745"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0650",
+        "routeid": "GMB7132",
+        "routeno": "71",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "안곡(산현4리방면)",
+        "endvehicletime": "0850",
+        "routeid": "GMB7133",
+        "routeno": "71",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0850"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1900",
+        "routeid": "GMB72-130",
+        "routeno": "72-1",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0800"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1845",
+        "routeid": "GMB72-230",
+        "routeno": "72-2",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0950"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0655",
+        "routeid": "GMB72-332",
+        "routeno": "72-3",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1750",
+        "routeid": "GMB72-431",
+        "routeno": "72-4",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1750"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1500",
+        "routeid": "GMB72-530",
+        "routeno": "72-5",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1500"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0930",
+        "routeid": "GMB72-630",
+        "routeno": "72-6",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0930"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0640",
+        "routeid": "GMB72-631",
+        "routeno": "72-6",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1925",
+        "routeid": "GMB72-730",
+        "routeno": "72-7",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1115"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "2020",
+        "routeid": "GMB7230",
+        "routeno": "72",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1330"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1730",
+        "routeid": "GMB73-131",
+        "routeno": "73-1",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1730"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1715",
+        "routeid": "GMB73-230",
+        "routeno": "73-2",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0820"
+    },
+    {
+        "endnodenm": "소보정류장",
+        "endvehicletime": "1650",
+        "routeid": "GMB73-310",
+        "routeno": "73-3",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1740",
+        "routeid": "GMB73-320",
+        "routeno": "73-3",
+        "routetp": "일반버스",
+        "startnodenm": "소보출발",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1455",
+        "routeid": "GMB73030",
+        "routeno": "730",
+        "routetp": "좌석버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "2015",
+        "routeid": "GMB7330",
+        "routeno": "73",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0830"
+    },
+    {
+        "endnodenm": "경운대학교",
+        "endvehicletime": "2020",
+        "routeid": "GMB74-111",
+        "routeno": "74-1",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0810"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "2055",
+        "routeid": "GMB74-121",
+        "routeno": "74-1",
+        "routetp": "일반버스",
+        "startnodenm": "경운대학교",
+        "startvehicletime": "0850"
+    },
+    {
+        "endnodenm": "경운대학교",
+        "endvehicletime": "0630",
+        "routeid": "GMB74-210",
+        "routeno": "74-2",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0750",
+        "routeid": "GMB74-322",
+        "routeno": "74-3",
+        "routetp": "일반버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "0750"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1530",
+        "routeid": "GMB74-430",
+        "routeno": "74-4",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1015"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "1705",
+        "routeid": "GMB74010",
+        "routeno": "740",
+        "routetp": "좌석버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "2050",
+        "routeid": "GMB74020",
+        "routeno": "740",
+        "routetp": "좌석버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "1725"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "1915",
+        "routeid": "GMB7410",
+        "routeno": "74",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0603"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "2310",
+        "routeid": "GMB7420",
+        "routeno": "74",
+        "routetp": "일반버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "차고지행",
+        "endvehicletime": "2340",
+        "routeid": "GMB77710",
+        "routeno": "777",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역(중앙시장)",
+        "startvehicletime": "2305"
+    },
+    {
+        "endnodenm": "산동파출소앞",
+        "endvehicletime": "1645",
+        "routeid": "GMB78-110",
+        "routeno": "78-1",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1645"
+    },
+    {
+        "endnodenm": "산동파출소앞",
+        "endvehicletime": "0720",
+        "routeid": "GMB78-220",
+        "routeno": "78-2",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "0650",
+        "routeid": "GMB78-310",
+        "routeno": "78-3",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1825",
+        "routeid": "GMB78-420",
+        "routeno": "78-4",
+        "routetp": "일반버스",
+        "startnodenm": "적림리(적림구미마을방면)",
+        "startvehicletime": "1825"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0815",
+        "routeid": "GMB7820",
+        "routeno": "78",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "0815"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0635",
+        "routeid": "GMB7830",
+        "routeno": "78",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "1800",
+        "routeid": "GMB8330",
+        "routeno": "83",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "1930",
+        "routeid": "GMB8432",
+        "routeno": "84",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "0800"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "1910",
+        "routeid": "GMB8532",
+        "routeno": "85",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "0755"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "1020",
+        "routeid": "GMB8630",
+        "routeno": "86",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "1020"
+    },
+    {
+        "endnodenm": "천평종점",
+        "endvehicletime": "0718",
+        "routeid": "GMB881-113",
+        "routeno": "881-1",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0718"
+    },
+    {
+        "endnodenm": "천평종점",
+        "endvehicletime": "2205",
+        "routeid": "GMB88110",
+        "routeno": "881",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2300",
+        "routeid": "GMB88120",
+        "routeno": "881",
+        "routetp": "일반버스",
+        "startnodenm": "천평종점",
+        "startvehicletime": "0710"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "0710",
+        "routeid": "GMB882-121",
+        "routeno": "882-1",
+        "routetp": "일반버스",
+        "startnodenm": "성곡종점",
+        "startvehicletime": "0710"
+    },
+    {
+        "endnodenm": "성곡종점",
+        "endvehicletime": "1825",
+        "routeid": "GMB88210",
+        "routeno": "882",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1927",
+        "routeid": "GMB88220",
+        "routeno": "882",
+        "routetp": "일반버스",
+        "startnodenm": "성곡종점",
+        "startvehicletime": "1247"
+    },
+    {
+        "endnodenm": "경운대학교",
+        "endvehicletime": "1620",
+        "routeid": "GMB883-111",
+        "routeno": "883-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0810"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1732",
+        "routeid": "GMB883-121",
+        "routeno": "883-1",
+        "routetp": "일반버스",
+        "startnodenm": "경운대학교",
+        "startvehicletime": "1125"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "1930",
+        "routeid": "GMB88310",
+        "routeno": "883",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2030",
+        "routeid": "GMB88320",
+        "routeno": "883",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "0805"
+    },
+    {
+        "endnodenm": "경운대학교",
+        "endvehicletime": "2040",
+        "routeid": "GMB884-111",
+        "routeno": "884-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "1245"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1355",
+        "routeid": "GMB884-121",
+        "routeno": "884-1",
+        "routetp": "일반버스",
+        "startnodenm": "경운대학교",
+        "startvehicletime": "0922"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "0635",
+        "routeid": "GMB884-210",
+        "routeno": "884-2",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "1815",
+        "routeid": "GMB88410",
+        "routeno": "884",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0925"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1940",
+        "routeid": "GMB88420",
+        "routeno": "884",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "동명면우체국건너",
+        "endvehicletime": "0630",
+        "routeid": "GMB885-111",
+        "routeno": "885-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "동명면우체국건너",
+        "endvehicletime": "1705",
+        "routeid": "GMB88510",
+        "routeno": "885",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0603"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1825",
+        "routeid": "GMB88520",
+        "routeno": "885",
+        "routetp": "일반버스",
+        "startnodenm": "동명면우체국",
+        "startvehicletime": "0715"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "2100",
+        "routeid": "GMB89010",
+        "routeno": "890",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2205",
+        "routeid": "GMB89020",
+        "routeno": "890",
+        "routetp": "좌석버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1758",
+        "routeid": "GMB89021",
+        "routeno": "890",
+        "routetp": "좌석버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "1758"
+    },
+    {
+        "endnodenm": "경운대학교",
+        "endvehicletime": "1555",
+        "routeid": "GMB891-111",
+        "routeno": "891-1",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0845"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1700",
+        "routeid": "GMB891-121",
+        "routeno": "891-1",
+        "routetp": "좌석버스",
+        "startnodenm": "경운대학교",
+        "startvehicletime": "0955"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0740",
+        "routeid": "GMB891-220",
+        "routeno": "891-2",
+        "routetp": "좌석버스",
+        "startnodenm": "옥계대백타운 출발지",
+        "startvehicletime": "0740"
+    },
+    {
+        "endnodenm": "옥계대백타운종점",
+        "endvehicletime": "1845",
+        "routeid": "GMB89110",
+        "routeno": "891",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1953",
+        "routeid": "GMB89120",
+        "routeno": "891",
+        "routetp": "좌석버스",
+        "startnodenm": "옥계대백타운 출발지",
+        "startvehicletime": "0708"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "0740",
+        "routeid": "GMB90-230",
+        "routeno": "90-2",
+        "routetp": "좌석버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "0740"
+    },
+    {
+        "endnodenm": "아사히글라스앞",
+        "endvehicletime": "2046",
+        "routeid": "GMB90010",
+        "routeno": "900",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0840"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2130",
+        "routeid": "GMB90020",
+        "routeno": "900",
+        "routetp": "일반버스",
+        "startnodenm": "아사히글라스건너",
+        "startvehicletime": "0924"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "2150",
+        "routeid": "GMB9010",
+        "routeno": "90",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "0805"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "2215",
+        "routeid": "GMB9011",
+        "routeno": "90",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "1520",
+        "routeid": "GMB9012",
+        "routeno": "90",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "1520"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "2205",
+        "routeid": "GMB9013",
+        "routeno": "90",
+        "routetp": "일반버스",
+        "startnodenm": "귀빈맨션(구미여고)",
+        "startvehicletime": "2205"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "2140",
+        "routeid": "GMB9020",
+        "routeno": "90",
+        "routetp": "일반버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "0955",
+        "routeid": "GMB9021",
+        "routeno": "90",
+        "routetp": "일반버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "0955"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "2220",
+        "routeid": "GMB9022",
+        "routeno": "90",
+        "routetp": "일반버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "2220"
+    },
+    {
+        "endnodenm": "인덕중흥S클래스건너",
+        "endvehicletime": "1915",
+        "routeid": "GMB910-111",
+        "routeno": "910-1",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "원평2동행정복지센터건너",
+        "endvehicletime": "2000",
+        "routeid": "GMB910-121",
+        "routeno": "910-1",
+        "routetp": "좌석버스",
+        "startnodenm": "인덕중흥S클래스앞",
+        "startvehicletime": "0715"
+    },
+    {
+        "endnodenm": "인덕중흥S클래스건너",
+        "endvehicletime": "2040",
+        "routeid": "GMB91010",
+        "routeno": "910",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0935"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2120",
+        "routeid": "GMB91020",
+        "routeno": "910",
+        "routetp": "좌석버스",
+        "startnodenm": "인덕중흥S클래스앞",
+        "startvehicletime": "1015"
+    },
+    {
+        "endnodenm": "금오공대종점",
+        "endvehicletime": "2010",
+        "routeid": "GMB9110",
+        "routeno": "91",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0710"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "2105",
+        "routeid": "GMB9120",
+        "routeno": "91",
+        "routetp": "일반버스",
+        "startnodenm": "금오공대종점",
+        "startvehicletime": "0805"
+    },
+    {
+        "endnodenm": "경운대학교",
+        "endvehicletime": "2140",
+        "routeid": "GMB92-110",
+        "routeno": "92-1",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "0900"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "2230",
+        "routeid": "GMB92-120",
+        "routeno": "92-1",
+        "routetp": "일반버스",
+        "startnodenm": "경운대학교",
+        "startvehicletime": "0945"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "1900",
+        "routeid": "GMB9210",
+        "routeno": "92",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "2000",
+        "routeid": "GMB9220",
+        "routeno": "92",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "0705"
+    },
+    {
+        "endnodenm": "양호동종점",
+        "endvehicletime": "2105",
+        "routeid": "GMB9310",
+        "routeno": "93",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "2130",
+        "routeid": "GMB9320",
+        "routeno": "93",
+        "routetp": "일반버스",
+        "startnodenm": "양호동종점",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "신장리",
+        "endvehicletime": "2145",
+        "routeid": "GMB9410",
+        "routeno": "94",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "2210",
+        "routeid": "GMB9420",
+        "routeno": "94",
+        "routetp": "일반버스",
+        "startnodenm": "신장리",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "1720",
+        "routeid": "GMB95-110",
+        "routeno": "95-1",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "1010"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "0605",
+        "routeid": "GMB95-111",
+        "routeno": "95-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "1830",
+        "routeid": "GMB95-120",
+        "routeno": "95-1",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "1045"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "0720",
+        "routeid": "GMB95-121",
+        "routeno": "95-1",
+        "routetp": "일반버스",
+        "startnodenm": "경운대학교",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "1835",
+        "routeid": "GMB95-210",
+        "routeno": "95-2",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "1835"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "0710",
+        "routeid": "GMB95-211",
+        "routeno": "95-2",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "0710"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "1735",
+        "routeid": "GMB95-220",
+        "routeno": "95-2",
+        "routetp": "일반버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "1735"
+    },
+    {
+        "endnodenm": "산동농공단지입구",
+        "endvehicletime": "1500",
+        "routeid": "GMB9510",
+        "routeno": "95",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동중학교방면)",
+        "startvehicletime": "1030"
+    },
+    {
+        "endnodenm": "인동정류장(인동사거리방면)",
+        "endvehicletime": "1535",
+        "routeid": "GMB9520",
+        "routeno": "95",
+        "routetp": "일반버스",
+        "startnodenm": "산동농공단지입구",
+        "startvehicletime": "0745"
+    },
+    {
+        "endnodenm": "산동농공단지입구",
+        "endvehicletime": "1745",
+        "routeid": "GMB9630",
+        "routeno": "96",
+        "routetp": "일반버스",
+        "startnodenm": "산동농공단지입구",
+        "startvehicletime": "1050"
+    },
+    {
+        "endnodenm": "장천버스터미널 종점",
+        "endvehicletime": "1600",
+        "routeid": "GMB9710",
+        "routeno": "97",
+        "routetp": "일반버스",
+        "startnodenm": "금오공대입구(옥계중학교방면)",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "금오공대종점",
+        "endvehicletime": "1637",
+        "routeid": "GMB9720",
+        "routeno": "97",
+        "routetp": "일반버스",
+        "startnodenm": "장천버스터미널 종점",
+        "startvehicletime": "0718"
+    },
+    {
+        "endnodenm": "경북과학기술고등학교앞",
+        "endvehicletime": "0715",
+        "routeid": "GMB99910",
+        "routeno": "999",
+        "routetp": "일반버스",
+        "startnodenm": "대동아파트",
+        "startvehicletime": "0715"
+    },
+    {
+        "endnodenm": "원평1동(대구은행앞방면)",
+        "endvehicletime": "1745",
+        "routeid": "GMB99920",
+        "routeno": "999",
+        "routetp": "좌석버스",
+        "startnodenm": "경북과학기술고등학교건너",
+        "startvehicletime": "1745"
+    },
+    {
+        "endnodenm": "CNG충전소(탑승불가)",
+        "endvehicletime": "0000",
+        "routeid": "GMB00-010",
+        "routeno": "00-0",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역(중앙시장)",
+        "startvehicletime": "0000"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "1342",
+        "routeid": "GMB10-130",
+        "routeno": "10-1",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0825"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "0757",
+        "routeid": "GMB10-230",
+        "routeno": "10-2",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0757"
+    },
+    {
+        "endnodenm": "공단1동행정복지센터앞",
+        "endvehicletime": "1855",
+        "routeid": "GMB101-110",
+        "routeno": "101-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2030",
+        "routeid": "GMB101-120",
+        "routeno": "101-1",
+        "routetp": "일반버스",
+        "startnodenm": "공단1동행정복지센터앞",
+        "startvehicletime": "1225"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "2145",
+        "routeid": "GMB1010",
+        "routeno": "10",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "0828",
+        "routeid": "GMB1011",
+        "routeno": "10",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0828"
+    },
+    {
+        "endnodenm": "공단1동행정복지센터앞",
+        "endvehicletime": "1915",
+        "routeid": "GMB10130",
+        "routeno": "101",
+        "routetp": "일반버스",
+        "startnodenm": "공단1동행정복지센터건너",
+        "startvehicletime": "0750"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2140",
+        "routeid": "GMB1020",
+        "routeno": "10",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "1411",
+        "routeid": "GMB11-130",
+        "routeno": "11-1",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "1752",
+        "routeid": "GMB11-230",
+        "routeno": "11-2",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "1752"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "0703",
+        "routeid": "GMB11-330",
+        "routeno": "11-3",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0703"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "1711",
+        "routeid": "GMB11-430",
+        "routeno": "11-4",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "1838",
+        "routeid": "GMB11-530",
+        "routeno": "11-5",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "1547",
+        "routeid": "GMB11-630",
+        "routeno": "11-6",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0917"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "1925",
+        "routeid": "GMB11010",
+        "routeno": "110",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2040",
+        "routeid": "GMB11020",
+        "routeno": "110",
+        "routetp": "좌석버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "2230",
+        "routeid": "GMB1110",
+        "routeno": "11",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0816"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "0949",
+        "routeid": "GMB1111",
+        "routeno": "11",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0949"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "2210",
+        "routeid": "GMB11110",
+        "routeno": "111",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2200",
+        "routeid": "GMB11120",
+        "routeno": "111",
+        "routetp": "좌석버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0628"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "0605",
+        "routeid": "GMB1113",
+        "routeno": "11",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "1510",
+        "routeid": "GMB1114",
+        "routeno": "11",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0740"
+    },
+    {
+        "endnodenm": "왜관남부",
+        "endvehicletime": "0615",
+        "routeid": "GMB1115",
+        "routeno": "11",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2051",
+        "routeid": "GMB1120",
+        "routeno": "11",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "0615"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2220",
+        "routeid": "GMB1121",
+        "routeno": "11",
+        "routetp": "일반버스",
+        "startnodenm": "왜관남부",
+        "startvehicletime": "2220"
+    },
+    {
+        "endnodenm": "효성해링턴건너",
+        "endvehicletime": "2030",
+        "routeid": "GMB12010",
+        "routeno": "120",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2115",
+        "routeid": "GMB12020",
+        "routeno": "120",
+        "routetp": "좌석버스",
+        "startnodenm": "효성해링턴앞",
+        "startvehicletime": "0715"
+    },
+    {
+        "endnodenm": "효성해링턴건너",
+        "endvehicletime": "2005",
+        "routeid": "GMB1210",
+        "routeno": "12",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0603"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2050",
+        "routeid": "GMB1220",
+        "routeno": "12",
+        "routetp": "좌석버스",
+        "startnodenm": "효성해링턴앞",
+        "startvehicletime": "0643"
+    },
+    {
+        "endnodenm": "차고지행",
+        "routeid": "GMB1310",
+        "routeno": "13",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(중앙시장)"
+    },
+    {
+        "endnodenm": "구미역",
+        "routeid": "GMB1320",
+        "routeno": "13",
+        "routetp": "일반버스",
+        "startnodenm": "차고지행"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1802",
+        "routeid": "GMB140-130",
+        "routeno": "140-1",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0637"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "1735",
+        "routeid": "GMB140-230",
+        "routeno": "140-2",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0603"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "0627",
+        "routeid": "GMB140-330",
+        "routeno": "140-3",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0613"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1850",
+        "routeid": "GMB140-430",
+        "routeno": "140-4",
+        "routetp": "일반버스",
+        "startnodenm": "청솔아파트앞",
+        "startvehicletime": "1302"
+    },
+    {
+        "endnodenm": "청솔아파트건너",
+        "endvehicletime": "1721",
+        "routeid": "GMB140-530",
+        "routeno": "140-5",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "1143"
+    },
+    {
+        "endnodenm": "봉곡청마루종점",
+        "endvehicletime": "0638",
+        "routeid": "GMB140-630",
+        "routeno": "140-6",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0638"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "0756",
+        "routeid": "GMB140-730",
+        "routeno": "140-7",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0756"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2320",
+        "routeid": "GMB14030",
+        "routeno": "140",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0718"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2305",
+        "routeid": "GMB14031",
+        "routeno": "140",
+        "routetp": "일반버스",
+        "startnodenm": "귀빈맨션(구미여고)",
+        "startvehicletime": "2205"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2205",
+        "routeid": "GMB14032",
+        "routeno": "140",
+        "routetp": "일반버스",
+        "startnodenm": "귀빈맨션(구미여고)",
+        "startvehicletime": "2205"
+    },
+    {
+        "endnodenm": "인평중학교종점",
+        "endvehicletime": "0717",
+        "routeid": "GMB160-110",
+        "routeno": "160-1",
+        "routetp": "좌석버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0717"
+    },
+    {
+        "endnodenm": "인평중학교종점",
+        "endvehicletime": "2055",
+        "routeid": "GMB16010",
+        "routeno": "160",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "북삼농협건너",
+        "endvehicletime": "1735",
+        "routeid": "GMB16011",
+        "routeno": "160",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0935"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2135",
+        "routeid": "GMB16020",
+        "routeno": "160",
+        "routetp": "좌석버스",
+        "startnodenm": "인평중학교출발",
+        "startvehicletime": "0730"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1817",
+        "routeid": "GMB16021",
+        "routeno": "160",
+        "routetp": "좌석버스",
+        "startnodenm": "북삼농협앞",
+        "startvehicletime": "1017"
+    },
+    {
+        "endnodenm": "오태1동",
+        "endvehicletime": "2000",
+        "routeid": "GMB16110",
+        "routeno": "161",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0635"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2110",
+        "routeid": "GMB16120",
+        "routeno": "161",
+        "routetp": "일반버스",
+        "startnodenm": "오태1동",
+        "startvehicletime": "0745"
+    },
+    {
+        "endnodenm": "지경리종점",
+        "endvehicletime": "0610",
+        "routeid": "GMB162-111",
+        "routeno": "162-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0610"
+    },
+    {
+        "endnodenm": "지경리종점",
+        "endvehicletime": "1812",
+        "routeid": "GMB16210",
+        "routeno": "162",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "1000"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1910",
+        "routeid": "GMB16220",
+        "routeno": "162",
+        "routetp": "일반버스",
+        "startnodenm": "지경리출발",
+        "startvehicletime": "0700"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "1540",
+        "routeid": "GMB170-210",
+        "routeno": "170-2",
+        "routetp": "좌석버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0710"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1640",
+        "routeid": "GMB170-220",
+        "routeno": "170-2",
+        "routetp": "좌석버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0810"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2155",
+        "routeid": "GMB17012",
+        "routeno": "170",
+        "routetp": "좌석버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0632"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "2210",
+        "routeid": "GMB17013",
+        "routeno": "170",
+        "routetp": "좌석버스",
+        "startnodenm": "귀빈맨션(구미여고)",
+        "startvehicletime": "2210"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "2255",
+        "routeid": "GMB17022",
+        "routeno": "170",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "0655"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0825",
+        "routeid": "GMB171-124",
+        "routeno": "171-1",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0825"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1615",
+        "routeid": "GMB171-210",
+        "routeno": "171-2",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1615"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1515",
+        "routeid": "GMB171-220",
+        "routeno": "171-2",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "1515"
+    },
+    {
+        "endnodenm": "원호대우아파트앞",
+        "endvehicletime": "0720",
+        "routeid": "GMB171-310",
+        "routeno": "171-3",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0845",
+        "routeid": "GMB171-320",
+        "routeno": "171-3",
+        "routetp": "일반버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0845"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1915",
+        "routeid": "GMB171-410",
+        "routeno": "171-4",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0600"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2200",
+        "routeid": "GMB17110",
+        "routeno": "171",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "0620"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "2320",
+        "routeid": "GMB17120",
+        "routeno": "171",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "구미역",
+        "endvehicletime": "1919",
+        "routeid": "GMB17210",
+        "routeno": "172",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1302"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1507",
+        "routeid": "GMB17220",
+        "routeno": "172",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(중앙시장)",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "구미역",
+        "endvehicletime": "1612",
+        "routeid": "GMB17310",
+        "routeno": "173",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1000"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1805",
+        "routeid": "GMB17320",
+        "routeno": "173",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(중앙시장)",
+        "startvehicletime": "1150"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "0640",
+        "routeid": "GMB174-120",
+        "routeno": "174-1",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(김천행)",
+        "startvehicletime": "0640"
+    },
+    {
+        "endnodenm": "구미역",
+        "endvehicletime": "1228",
+        "routeid": "GMB174-211",
+        "routeno": "174-2",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1228"
+    },
+    {
+        "endnodenm": "구미역(선산노선정류장)",
+        "endvehicletime": "2005",
+        "routeid": "GMB17410",
+        "routeno": "174",
+        "routetp": "일반버스",
+        "startnodenm": "선산터미널종점",
+        "startvehicletime": "1005"
+    },
+    {
+        "endnodenm": "선산터미널종점",
+        "endvehicletime": "1930",
+        "routeid": "GMB17420",
+        "routeno": "174",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(김천행)",
+        "startvehicletime": "0913"
+    },
+    {
+        "endnodenm": "해평버스정류장",
+        "endvehicletime": "1910",
+        "routeid": "GMB17510",
+        "routeno": "175",
+        "routetp": "일반버스",
+        "startnodenm": "구미역(선산노선정류장)",
+        "startvehicletime": "0618"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "1945",
+        "routeid": "GMB17520",
+        "routeno": "175",
+        "routetp": "일반버스",
+        "startnodenm": "해평버스정류장",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "구평예다음아파트2차",
+        "endvehicletime": "1940",
+        "routeid": "GMB18010",
+        "routeno": "180",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0605"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2050",
+        "routeid": "GMB18020",
+        "routeno": "180",
+        "routetp": "일반버스",
+        "startnodenm": "구평예다음아파트2차",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "2205",
+        "routeid": "GMB18110",
+        "routeno": "181",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0603"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2255",
+        "routeid": "GMB18120",
+        "routeno": "181",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0645"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "0656",
+        "routeid": "GMB182-110",
+        "routeno": "182-1",
+        "routetp": "일반버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0656"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "1425",
+        "routeid": "GMB182-210",
+        "routeno": "182-2",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0630"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2135",
+        "routeid": "GMB182-220",
+        "routeno": "182-2",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "1120"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "2055",
+        "routeid": "GMB18210",
+        "routeno": "182",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "1215"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2140",
+        "routeid": "GMB18220",
+        "routeno": "182",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0838"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "1835",
+        "routeid": "GMB18310",
+        "routeno": "183",
+        "routetp": "일반버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0720"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2110",
+        "routeid": "GMB18320",
+        "routeno": "183",
+        "routetp": "일반버스",
+        "startnodenm": "황상종점 출발점",
+        "startvehicletime": "0940"
+    },
+    {
+        "endnodenm": "인동정류장(인동중학교방면)",
+        "endvehicletime": "2120",
+        "routeid": "GMB18410",
+        "routeno": "184",
+        "routetp": "좌석버스",
+        "startnodenm": "구미역",
+        "startvehicletime": "0650"
+    },
+    {
+        "endnodenm": "구미역(중앙시장)",
+        "endvehicletime": "2210",
+        "routeid": "GMB18420",
+        "routeno": "184",
+        "routetp": "일반버스",
+        "startnodenm": "인동정류장(인동사거리방면)",
+        "startvehicletime": "0810"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "0654",
+        "routeid": "GMB185-110",
+        "routeno": "185-1",
+        "routetp": "좌석버스",
+        "startnodenm": "봉곡청마루출발지",
+        "startvehicletime": "0654"
+    },
+    {
+        "endnodenm": "황상종점",
+        "endvehicletime": "0840",
+        "routeid": "GMB185-210",
+        "routeno": "185-2",
+        "routetp": "좌석버스",
+        "startnodenm": "원호대우아파트건너",
+        "startvehicletime": "0735"
+    }
+]
