@@ -1,4 +1,5 @@
-# BusInformationApp
+# BusInformationApp (DEPRECATED)
+new version: https://github.com/JinSagong/GumiBusInfo
 
 Created: 2020-02-03
 
